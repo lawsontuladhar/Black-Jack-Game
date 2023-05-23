@@ -4,11 +4,12 @@ body {
   background-image: url(green-grass.jpeg);
   background-size: cover;
   background-repeat: inherit;
-  height: 500px;
-  width: 500px;
+  height: auto;
+  width: auto;
   font-weight: bold;
   color: rgb(255, 255, 255);
   text-align: center;
+  align-content: center;
 }
 h1 {
   color: goldenrod;
